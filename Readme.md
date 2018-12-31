@@ -36,7 +36,7 @@ include build path in enviornmental variables so that command line can accept py
 
 ## Demonstrations
 
-* Take a look at the working project demonstration. Click on the image to view the complete video
+* Take a look at the working project demonstration. Click on the image to view the complete video.
 
 
 [![Time Complexity Analyzer](https://i.ytimg.com/vi/NYXaGTUUiPs/hqdefault.jpg)](https://youtu.be/NYXaGTUUiPs)
