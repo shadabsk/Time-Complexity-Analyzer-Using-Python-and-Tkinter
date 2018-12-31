@@ -6,6 +6,7 @@ Time Complexity Analyzer Using Python and Tkinter (GUI Based)
 
 * Compile TimeComplexityAnalyzer.py file using python 3 compiler (python command)  - *Optional* **OR**
 * Double click on TimeComplexityAnalyzer.py the application will begin to execute
+* Select .c or .txt files only some of the samples are included here inside Sample input c files directory
 
 ### Prerequisites
 
